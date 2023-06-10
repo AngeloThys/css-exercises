@@ -1,0 +1,30 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* An alternative */
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Another alternative */
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Yet another alternative */
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
